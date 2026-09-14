@@ -6,7 +6,7 @@
 ✨Versatile MERN stack developer skilled in creating user-friendly, reliable web applications with expertise across front-end, back-end, responsive interfaces, and scalable server-side solutions. Passionate about contributing skills and enthusiasm to impactful projects ✨
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <br>
-📫 How to reach me : nesla05@gmail.com
+📫 How to reach me : nesla0524@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
